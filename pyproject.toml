@@ -1,0 +1,9 @@
+[project]
+name = "video-assist-ai"
+version = "0.1.0"
+description = "AI Video Assistant"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "yt-dlp[default]>=2026.8.19",
+]
